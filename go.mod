@@ -1,3 +1,3 @@
-module github.com/gouniverse/csvutils
+module github.com/dracory/csvutils
 
-go 1.21
+go 1.26
